@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "page-sebastian.Server", "page-sebastian.Server\page-sebastian.Server.csproj", "{D55EC4B9-0261-413C-A85A-A94C01511C6A}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "page-sebastian.client", "page-sebastian.client\page-sebastian.client.esproj", "{8A6FDEA3-270A-4D5A-A4F0-E8C35EE31072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D55EC4B9-0261-413C-A85A-A94C01511C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55EC4B9-0261-413C-A85A-A94C01511C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55EC4B9-0261-413C-A85A-A94C01511C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55EC4B9-0261-413C-A85A-A94C01511C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6FDEA3-270A-4D5A-A4F0-E8C35EE31072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6FDEA3-270A-4D5A-A4F0-E8C35EE31072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6FDEA3-270A-4D5A-A4F0-E8C35EE31072}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8A6FDEA3-270A-4D5A-A4F0-E8C35EE31072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6FDEA3-270A-4D5A-A4F0-E8C35EE31072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6FDEA3-270A-4D5A-A4F0-E8C35EE31072}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {453E76AB-28E4-480E-BC57-068C11C20109}
+	EndGlobalSection
+EndGlobal
